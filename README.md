@@ -2,7 +2,7 @@
 
 Hi, my name is Kevin and I'm currently a junior at UC Berkeley. I love working with numbers! I have an interest in statistical modeling and applying statistics to better the world (and trading strategies).
 
-- 📖 I'm a student at the University of California, Berkeley. I will graduate with a double major in Statistics and Data Science May 2027.
+- 📖 I'm a student at the University of California, Berkeley. I will graduate in May 2027 with a double major in Statistics and Data Science.
 - 🏠 My hometown is Anaheim, CA. Ask me food recs!
 - 📤 Connect with me <a href="https://www.linkedin.com/in/kevinhoatruong/">here!</a>
 - 😁 I enjoy collecting stationary, discovering new music, and volunteering at my local bunny shelter!
