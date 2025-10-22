@@ -15,6 +15,6 @@ Feel free to reach out!
 <code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/jax-ml/jax/refs/heads/main/images/jax_logo.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/numpy.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/pandas.svg"></code>
+<code><img height="45" src="https://i.redd.it/c6h7rok9c2v31.jpg"></code>
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=to-ke)](https://github.com/anuraghazra/github-readme-stats)
