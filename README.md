@@ -11,6 +11,7 @@ Feel free to reach out!
 
 #### Languages, Tools, and Frameworks
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="45" src="https://www.r-project.org/logo/Rlogo.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/jax-ml/jax/refs/heads/main/images/jax_logo.svg"></code>
