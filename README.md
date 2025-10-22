@@ -3,7 +3,9 @@
 Hi, my name is Kevin and I'm currently a junior at UC Berkeley. 
 
 - 📖 I'm studying Statistics and Data Science, and will graduate May 2027.
-- 😁 I enjoy collecting stationary, going to concerts, and volunteering my time to take of animals!
+- 🏠 My hometown is Anaheim, CA. Ask me food recs!
+- 📤 Connect with me <a href="https://www.linkedin.com/in/kevinhoatruong/">here!</a>
+- 😁 I enjoy collecting stationary, going to concerts, and volunteering at my local bunny shelter!
 
 I love working with numbers and love math a lot! I have an interest in statistical modeling and applying statistics to better the world (and trading strategies). Feel free to reach out!
 
