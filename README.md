@@ -1,6 +1,6 @@
 # Hello :)
 
-Hi, my name is Kevin and I'm currently a junior at UC Berkeley. I have an interest in statistical modeling and applying statistics to better the world.
+Hi, my name is Kevin and I'm currently a senior at UC Berkeley. I have an interest in machine learning & applying statistics to better the world.
 
 - 📖 I'm a student at the University of California, Berkeley. I will graduate in May 2027 with a double major in Statistics and Data Science.
 - 🏠 My hometown is Anaheim, CA. Ask me food recs!
